@@ -25,7 +25,7 @@ Network Type based on Pattern (Topology)
 # Iqbal's Note
 
 Computer NetWork
->> System, Connect, Transmitting(1 arah) / Sharing(2 arah)
+-> System, Connect, Transmitting(1 arah) / Sharing(2 arah)
 
 Network type :
 
@@ -36,4 +36,4 @@ Based on scale
 - WAN (contries/continent)
 
 Based on Pattern (pola/toppology)
->> Nodes, Structure (Physical&logically), Network
+-> Nodes, Structure (Physical&logically), Network
