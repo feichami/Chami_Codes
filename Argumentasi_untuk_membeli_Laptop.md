@@ -67,23 +67,23 @@ Karena abang memiliki minat utama di bidang **Game Development** dan **Game Desi
 ## 📷 Rekomendasi Laptop 9 - 10 Jutaan (berdasarkan rekomendasi dari teman)
 
 Acer Nitro V15
-![Acer Nitro V15](D:\Games\Miscelanious\Acer_Nitro_V15.png)
-[Link Tokopedia](https://www.tokopedia.com/nvidiageforcelt/acer-nitro-v-15-geforce-rtx-2050-i5-13420h-8gb-16gb-512gb-ohs-tanpa-antigores-8gb-50da4?extParam=ivf%3Dtrue%26keyword%3Dlaptop+gaming%26search_id%3D20250417132155EFDC168E4C8F493AA3TL%26src%3Dsearch)
+![Acer Nitro V15](img/Acer_Nitro_V15.png)
+[Link Tokopedia](https://tokopedia.link/nukyXAdSDSb)
 
 ASUS TUF Gaming A15
-![ASUS TUF Gaming A15](D:\Games\Miscelanious\ASUS_TUF_Gaming_A15.jpg)
+![ASUS TUF Gaming A15](img/ASUS_TUF_Gaming_A15.jpg)
 [Link Tokopedia](https://tokopedia.link/RZD9zhiQDSb)
 
 MSI Thin GF63
-![MSI Thin GF63](D:\Games\Miscelanious\MSI_THIN_GF63.png)
+![MSI Thin GF63](img/MSI_THIN_GF63.png)
 [Link Tokopedia](https://tokopedia.link/Z8GxuVqQDSb)
 
 Lenovo LOQ 15 RTX 2050
-![Lenovo LOQ 15 RTX 2050](D:\Games\Miscelanious\Lenovo_LOQ_15_RTX_2050.jpg)
+![Lenovo LOQ 15 RTX 2050](img/Lenovo_LOQ_15_RTX_2050.jpg)
 [Link Tokopedia](https://tokopedia.link/8MqcabMQDSb)
 
 ## 📷 Rekomendasi Laptop 11 Jutaan (berdasarkan rekomendasi dari teman)
 
 Lenovo LOQ 15 RTX 3050
-![Lenovo LOQ 15 RTX 3050](D:\Games\Miscelanious\Lenovo_LOQ_15_RTX_3050.jpg)
+![Lenovo LOQ 15 RTX 3050](img/Lenovo_LOQ_15_RTX_3050.jpg)
 [Link Tokopedia](https://tokopedia.link/cTdTq2YQDSb)
