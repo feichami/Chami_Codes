@@ -84,7 +84,6 @@ Lenovo LOQ 15 RTX 2050
 
 ## 📷 Rekomendasi Laptop 11 Jutaan (berdasarkan rekomendasi dari teman)
 
-```markdown
 Lenovo LOQ 15 RTX 3050
 ![Lenovo LOQ 15 RTX 3050](D:\Games\Miscelanious\Lenovo_LOQ_15_RTX_3050.jpg)
 [Link Tokopedia](https://tokopedia.link/cTdTq2YQDSb)
