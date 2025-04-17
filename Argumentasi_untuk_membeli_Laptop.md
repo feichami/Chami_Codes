@@ -66,7 +66,6 @@ Karena abang memiliki minat utama di bidang **Game Development** dan **Game Desi
 
 ## 📷 Rekomendasi Laptop 9 - 10 Jutaan (berdasarkan rekomendasi dari teman)
 
-```markdown
 Acer Nitro V15
 ![Acer Nitro V15](D:\Games\Miscelanious\Acer_Nitro_V15.png)
 [Link Tokopedia](https://www.tokopedia.com/nvidiageforcelt/acer-nitro-v-15-geforce-rtx-2050-i5-13420h-8gb-16gb-512gb-ohs-tanpa-antigores-8gb-50da4?extParam=ivf%3Dtrue%26keyword%3Dlaptop+gaming%26search_id%3D20250417132155EFDC168E4C8F493AA3TL%26src%3Dsearch)
